@@ -1,0 +1,40 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\" ; if ($?) { javac QuizManagementSystem.java } ; if ($?) { java QuizManagementSystem }
+
+===== WELCOME TO THE QUIZ =====
+
+Q1. What is the size of int in Java?
+1. 2 bytes
+2. 4 bytes
+3. 8 bytes
+4. 16 bytes
+Enter your answer (1-4): 2
+Correct!
+
+Q2. Which keyword is used for inheritance in Java?
+1. implements
+2. extends
+3. inherits
+4. super
+Enter your answer (1-4): 2
+Correct!
+
+Q3. Which OOP concept means hiding data?
+1. Polymorphism
+2. Abstraction
+3. Encapsulation
+4. Inheritance
+Enter your answer (1-4): 2
+Wrong! Correct answer: Encapsulation
+
+Q4. Which method is the entry point of a Java program?
+1. start()
+2. run()
+3. main()
+4. init()
+Enter your answer (1-4): 3
+Correct!
+
+----- RESULT -----
+Score      : 3/4
+Percentage : 75.00%
+Grade      : A
